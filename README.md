@@ -51,7 +51,8 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodes/node.png" />
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
