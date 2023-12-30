@@ -34,6 +34,28 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 -   **[Memulai Pemograman Dengan Python)](https://www.dicoding.com/certificates/72ZD2KWQ9ZYW)** - Dicoding (2021)
 ---
 
+---
+
+### MY PORTOFOLIO
+-   **[Laravel - Rajawali Mobil](https://rajawalimobil.com)** - freelance (2023)
+-   **[Laravel - Teman Tiket](https://temantiket.com)** - freelance (2023)
+-   **[Wordpress - Teman Tera](https://temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Absensi](https://absensi.temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Penilaian](https://penilaian.temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Akreditasi](https://akreditasi.temantera.com)** - freelance (2023)
+<br />
+
+---
+
+---
+
+### MY Publication
+-   **[Developing a Web-Based Information System for Tour Package Ticket Purchases (Case Study: Bersukaria Tour)](https://www.matec-conferences.org/articles/matecconf/abs/2022/19/matecconf_icst2022_04010/matecconf_icst2022_04010.html)** - (2022)
+
+-   **[ANALISIS DAN PERANCANGAN APLIKASI E-TICKETING WISATA INDONESIA (TIWI) BERBASIS ANDROID DENGAN METODE WATERFALL)](https://www.matec-conferences.org/articles/matecconf/abs/2022/19/matecconf_icst2022_04010/matecconf_icst2022_04010.html)** - (2021)
+<br />
+
+---
 <!-- Add education section here -->
 
 ### Stats
@@ -80,15 +102,4 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 <br />
 
----
 
-### MY PORTOFOLIO
--   **[Laravel - Rajawali Mobil](https://rajawalimobil.com)** - freelance (2023)
--   **[Laravel - Teman Tiket](https://temantiket.com)** - freelance (2023)
--   **[Wordpress - Teman Tera](https://temantera.com)** - freelance (2023)
--   **[Laravel - Sistem Absensi](https://absensi.temantera.com)** - freelance (2023)
--   **[Laravel - Sistem Penilaian](https://penilaian.temantera.com)** - freelance (2023)
--   **[Laravel - Sistem Akreditasi](https://akreditasi.temantera.com)** - freelance (2023)
-<br />
-
----
