@@ -68,7 +68,7 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/yusuf.almaruf)
 <br/> 
 
--   **[MY CV)](https://drive.google.com/file/d/1us3R06uWS8rfi7EES0HfeVPNfzz1Zmfh/view?usp=sharing)** 
+-   **[MY CV](https://drive.google.com/file/d/1us3R06uWS8rfi7EES0HfeVPNfzz1Zmfh/view?usp=sharing)** 
 
 ---
 
