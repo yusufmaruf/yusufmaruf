@@ -23,8 +23,15 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 -   **[AWS Academy Cloud Architecting](https://drive.google.com/file/d/1OpZfunKShN8KI161GfukWjLZusVTm0Od/view?usp=drive_link)** - AWS Academy (2022)
 
 #### National Certification
--   **[Javascript Fundamental](https://drive.google.com/file/d/1KjSvwSr47rCfgOctBWPP2Isr0q-l_9V8/view?usp=sharing)** - Dicoding (2022)
+-   **[Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/1RXY67VV9ZVM)** - Dicoding (2023)
 
+-   **[Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/L4PQG2K74ZO1)** - Dicoding (2023)
+
+-   **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/NVP7OJD4GPR0)** - Dicoding (2023)
+
+-   **[Belajar Dasar-Dasar DevOps)](https://www.dicoding.com/certificates/ERZRMQJKNPYV)** - Dicoding (2022)
+
+-   **[Memulai Pemograman Dengan Python)](https://www.dicoding.com/certificates/72ZD2KWQ9ZYW)** - Dicoding (2021)
 ---
 
 <!-- Add education section here -->
