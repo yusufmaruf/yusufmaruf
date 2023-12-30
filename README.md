@@ -71,8 +71,6 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 ---
 
 ### Tools
-
-<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" alt="Postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
@@ -80,6 +78,17 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br />
+
+---
+
+### MY PORTOFOLIO
+-   **[Laravel - Rajawali Mobil](https://rajawalimobil.com)** - freelance (2023)
+-   **[Laravel - Teman Tiket](https://temantiket.com)** - freelance (2023)
+-   **[Wordpress - Teman Tera](https://temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Absensi](https://absensi.temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Penilaian](https://penilaian.temantera.com)** - freelance (2023)
+-   **[Laravel - Sistem Akreditasi](https://akreditasi.temantera.com)** - freelance (2023)
 <br />
 
 ---
