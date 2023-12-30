@@ -77,8 +77,8 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 ### Stats
 
 <p float="left">
-  <img alt="Dan's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufmaruf&show_icons=true&hide_border=true&theme=rose_pine" height=165px />
-    <img alt="Novianto GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufmaruf&hide_border=true&layout=compact&theme=rose_pine" />
+  <img alt="yusuf's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufmaruf&show_icons=true&hide_border=true&theme=rose_pine" height=165px />
+    <img alt="Yusuf GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufmaruf&hide_border=true&layout=compact&theme=rose_pine" />
 </p>
 
 ---
