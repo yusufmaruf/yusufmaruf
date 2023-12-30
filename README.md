@@ -66,7 +66,7 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 ### Connect With Us
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achmad-yusuf-al-ma-ruf-b9b907217/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/yusuf.almaruf)
-
+ **[MY CV )](https://drive.google.com/file/d/1us3R06uWS8rfi7EES0HfeVPNfzz1Zmfh/view?usp=sharing)** 
 ---
 
 <!-- Add education section here -->
