@@ -18,11 +18,12 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 #### International Certification
 
+-   **[Introduction to Front-End Development - META](https://www.coursera.org/account/accomplishments/verify/CJSKP7GVZZQX?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)** - Coursera (2023)
+
 -   **[AWS Academy Cloud Architecting](https://drive.google.com/file/d/1OpZfunKShN8KI161GfukWjLZusVTm0Od/view?usp=drive_link)** - AWS Academy (2022)
+
+#### National Certification
 -   **[Javascript Fundamental](https://drive.google.com/file/d/1KjSvwSr47rCfgOctBWPP2Isr0q-l_9V8/view?usp=sharing)** - Dicoding (2022)
--   **[Java Intermediate](https://www.sololearn.com/certificates/CC-2AUK84SF)** - Sololearn (2023)
--   **[OCI Foundations Associate](https://drive.google.com/file/d/1VCZINTf8e_7BIxSkSaZPowpw7sv05fWC/view?usp=sharing)** - Oracle University (2023)
--   **[Oracle Cloud Data Management Foundations Associate](https://drive.google.com/file/d/1CDfFg23WJZqZ6npbscnJANTb9U3EcvgO/view?usp=sharing)** - Oracle University (2023)
 
 ---
 
