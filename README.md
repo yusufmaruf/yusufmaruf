@@ -16,7 +16,7 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 
 ### Certifications
 
--   **[AWS Academy Cloud Architecting](https://drive.google.com/file/d/1lKeLStnGSkBGXM6JBetAzrJ_U4QWTstz/view?usp=sharing)** - AWS Academy (2022)
+-   **[AWS Academy Cloud Architecting](https://drive.google.com/drive/u/0/folders/1a0dtq2Ov2Xkz_U42q4s20hiFTk7zAkmn)** - AWS Academy (2022)
 -   **[Javascript Fundamental](https://drive.google.com/file/d/1KjSvwSr47rCfgOctBWPP2Isr0q-l_9V8/view?usp=sharing)** - Dicoding (2022)
 -   **[Java Intermediate](https://www.sololearn.com/certificates/CC-2AUK84SF)** - Sololearn (2023)
 -   **[OCI Foundations Associate](https://drive.google.com/file/d/1VCZINTf8e_7BIxSkSaZPowpw7sv05fWC/view?usp=sharing)** - Oracle University (2023)
