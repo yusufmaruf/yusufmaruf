@@ -2,13 +2,13 @@
 
 I'm a student and developer who enjoys building fast and modern web apps.  I like to spend my time learning new things, working on side projects.
 
-<!-- -   🔭 I’m currently working on a Java web app 👨‍💻 -->
+<!-- -   🔭 I’m currently working on a Fullstack web app 👨‍💻 -->
 
 -   👨‍🎓 I'm currently working on my studies
--   🌱 I’m currently learning more about Java and Cloud Computing
+-   🌱 I’m currently learning more about Web Development and Mobile Development
 -   🤝 I’m looking to collaborate on various open source projects
 -   ⚡️ I would like to work on technologies that improve our lives and create a sustainable and better future
--   📫 Contact me [here](https://www.linkedin.com/in/m-novianto-anggoro-3915b9245/)
+-   📫 Contact me [here](https://www.linkedin.com/in/achmad-yusuf-al-ma-ruf-b9b907217/)
 
 ---
 
