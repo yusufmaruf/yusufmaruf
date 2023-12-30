@@ -32,11 +32,11 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 -   **[Belajar Dasar-Dasar DevOps)](https://www.dicoding.com/certificates/ERZRMQJKNPYV)** - Dicoding (2022)
 
 -   **[Memulai Pemograman Dengan Python)](https://www.dicoding.com/certificates/72ZD2KWQ9ZYW)** - Dicoding (2021)
----
+
 
 ---
 
-### MY PORTOFOLIO
+###  PORTOFOLIO
 -   **[Laravel - Rajawali Mobil](https://rajawalimobil.com)** - freelance (2023)
 -   **[Laravel - Teman Tiket](https://temantiket.com)** - freelance (2023)
 -   **[Wordpress - Teman Tera](https://temantera.com)** - freelance (2023)
@@ -45,17 +45,30 @@ I'm a student and developer who enjoys building fast and modern web apps.  I lik
 -   **[Laravel - Sistem Akreditasi](https://akreditasi.temantera.com)** - freelance (2023)
 <br />
 
----
+
 
 ---
 
-### MY Publication
+###  Publication
 -   **[Developing a Web-Based Information System for Tour Package Ticket Purchases (Case Study: Bersukaria Tour)](https://www.matec-conferences.org/articles/matecconf/abs/2022/19/matecconf_icst2022_04010/matecconf_icst2022_04010.html)** - (2022)
 
 -   **[ANALISIS DAN PERANCANGAN APLIKASI E-TICKETING WISATA INDONESIA (TIWI) BERBASIS ANDROID DENGAN METODE WATERFALL)](https://www.matec-conferences.org/articles/matecconf/abs/2022/19/matecconf_icst2022_04010/matecconf_icst2022_04010.html)** - (2021)
 <br />
 
 ---
+
+### Honor And Achievment
+-   2nd Prize Winner of 2nd Phase of Southeast Asia Creative Camp: Multimedia - Augmented Reality STEM Project Online Workshop - (2022)
+<br />
+
+---
+
+### Connect With Us
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achmad-yusuf-al-ma-ruf-b9b907217/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/yusuf.almaruf)
+
+---
+
 <!-- Add education section here -->
 
 ### Stats
